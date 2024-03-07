@@ -12,7 +12,6 @@ const config = {
   },
   social: {
     linkedin: 'emretemirr',
-    twitter: 'emretemirr',
     medium: 'emretemir',
     dev: 'emretemirdev',
     stackoverflow: '', // format: userid/username
