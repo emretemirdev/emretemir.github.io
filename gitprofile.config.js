@@ -26,21 +26,10 @@ const config = {
       'https://drive.google.com/file/d/196J2FyX6L3ufw-Kyh_7ikqG2FBjgkpBJ/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Java EE',
-    'Spring Boot',
-    'JavaScript',
-    'React.js',
-    'Hibernate',
-    'Kubernetes',
-    'MySQL',
-    'Swing',
-    'Git',
-    'Docker',
-    'Apache Camel',
-    'Junit',
-    'C',
-    'C++',
-    'Apache Kafka',
+    'C/C++',
+    'Java',
+    'Kotlin',
+    'Go'
   ],
   experiences: [
     {
